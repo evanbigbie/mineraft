@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e50cc5-51fc-480d-9f76-cd5196abf86c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game Engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Game Engine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/InputEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/InputEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/KeyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/KeyEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/MouseEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/MouseEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PlayerInputEventQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlayerInputEventQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/BirdCreateEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/BirdCreateEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/BirdObserverAddNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/BirdObserverAddNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/EggCreateEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/EggCreateEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/EggObserverAddNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/EggObserverAddNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Cloud1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cloud1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Cloud2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cloud2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/GameData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/GameData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/GameFigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/GameFigure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/MousePointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/MousePointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/River.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/River.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Shooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Shooter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/balloon/Balloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/balloon/Balloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/balloon/BalloonAnimExploding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/balloon/BalloonAnimExploding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/balloon/BalloonAnimShooting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/balloon/BalloonAnimShooting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/balloon/BalloonAnimStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/balloon/BalloonAnimStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/bird/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/bird/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/bird/BirdAnimFalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/bird/BirdAnimFalling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/bird/BirdAnimFlying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/bird/BirdAnimFlying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/bird/BirdAnimStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/bird/BirdAnimStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/egg/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/egg/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/egg/EggAnimExploding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/egg/EggAnimExploding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/egg/EggAnimFalling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/egg/EggAnimFalling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/egg/EggAnimFlying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/egg/EggAnimFlying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/egg/EggAnimStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/egg/EggAnimStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/mine/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/mine/Mine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/mine/MineState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/mine/MineState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/mine/MineStateDone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/mine/MineStateDone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/mine/MineStateFire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/mine/MineStateFire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/mine/MineStateTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/mine/MineStateTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/soaker/Soaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/soaker/Soaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/soaker/SoakerAnimExploding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/soaker/SoakerAnimExploding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/soaker/SoakerAnimShooting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/soaker/SoakerAnimShooting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/soaker/SoakerAnimStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/soaker/SoakerAnimStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/MyCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MyCanvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/MyWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MyWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,38 +106,42 @@
     <session id="-221005625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="md" value="196" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+          <entry key="java" value="1" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -188,6 +149,24 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Cloud2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -217,7 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/model/Water.java" />
         <option value="$PROJECT_DIR$/src/controller/observer/MineCreateEvent.java" />
         <option value="$PROJECT_DIR$/src/model/mine/MineAnimFlying.java" />
         <option value="$PROJECT_DIR$/src/controller/observer/Subject.java" />
@@ -268,10 +246,11 @@
         <option value="$PROJECT_DIR$/src/view/MyWindow.java" />
         <option value="$PROJECT_DIR$/src/model/mine/MineStateFire.java" />
         <option value="$PROJECT_DIR$/src/controller/MouseEventListener.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -282,7 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,8 +302,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,8 +367,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -404,7 +382,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3287841" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.17175302" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.21215881" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.27318296" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -457,7 +435,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/model/soaker/RaftLoc.java" />
     <entry file="file://$PROJECT_DIR$/src/model/RaftLoc.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/model/mine/Mine" />
@@ -579,13 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Cloud2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -772,6 +742,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Game Engine.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Cloud2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
